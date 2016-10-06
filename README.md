@@ -1,2 +1,2 @@
 # hello-world
-start me off Git!
+Let's Git!
